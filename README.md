@@ -16,9 +16,7 @@ The goal of this project is to:
 * Create visualizations to summarize insights
 
 ## License
-This is a learning project and can be used freely.
-Add a license section if you plan to distribute it publicly.
+Original of this project are derived from the Udacity Bikeshare project and are Copyright (c) Udacity, Inc.
 
 ## Date created
-
 Python and this README file is created on 25. February 2026
