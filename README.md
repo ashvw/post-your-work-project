@@ -5,4 +5,4 @@ __Introduction to version control__ course. It contains single Python file (`bik
 
 ## Date created
 
-Include the date you created this project and README file.
+Python and this README file is created on 25. February 2026
